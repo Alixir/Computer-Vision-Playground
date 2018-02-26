@@ -1,0 +1,9 @@
+# List of files and their corresponding descriptions:
+1. Assignment1.pdf: Assignment file, including the list of tasks undertaken.
+2. gaussian.m: Gaussian filter function.
+3. gaussianConv.m: Convolution function for the Gaussian function.
+4. gaussianDer.m: Gaussian first order derivative function.
+5. gradmag.m: Gradient magnitude and orientation of Gaussian derivative function.
+6. pn1.jpg: Image used to demonstrate implication of different types of Gaussian filters.
+7. pn1.mat: Image pn1.jpg in uint8 format.
+8. run.m: Main file that 
