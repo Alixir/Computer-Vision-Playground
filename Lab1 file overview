@@ -6,4 +6,7 @@
 5. gradmag.m: Gradient magnitude and orientation of Gaussian derivative function.
 6. pn1.jpg: Image used to demonstrate implication of different types of Gaussian filters.
 7. pn1.mat: Image pn1.jpg in uint8 format.
-8. run.m: Main file that 
+8. zebra.jpg: RGB picture of a zebra. Not used, but included for users to play around with.
+9. zebra.mat: Image zebra.jpg in uint8 format.
+10. run.m: Main file to run.
+
