@@ -13,15 +13,15 @@ Overall scheme for fundamental matrix and epipolar geometry is defined as follow
 - Estimate the fundamental matrix for the given two images.
 
 
-:beginner: **_ EIGHT POINT ALGORITHM_**
+:beginner: **_EIGHT POINT ALGORITHM_**
 
 
 
-:beginner: **_ NORMALIZED EIGHT POINT ALGORITHM_**
+:beginner: **_NORMALIZED EIGHT POINT ALGORITHM_**
 
 
 
-:beginner: **_ RANSAC NORMALISED EIGHT POINT ALGORITHM_**
+:beginner: **_RANSAC NORMALISED EIGHT POINT ALGORITHM_**
 
 
 
