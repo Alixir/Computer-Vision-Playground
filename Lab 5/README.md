@@ -3,7 +3,7 @@
 
 The objective of this assignment is to write a function that takes two images as input and computes Fundamental matrix by Normalized 8 point Algorithm with RANSAC.
 
-:beginner: *_FUNDAMENTAL MATRIX ESTIMATION_ *
+:beginner: **_FUNDAMENTAL MATRIX ESTIMATION_**
 
 Overall scheme for fundamental matrix and epipolar geometry is defined as follows:
 
